@@ -20,6 +20,7 @@
   <ItemGroup>
     <None Include="..\..\KernelMode\README.md" />
     <None Include="..\..\KernelMode\KernelMode.zip" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\KernelMode\Privilege.cpp">
